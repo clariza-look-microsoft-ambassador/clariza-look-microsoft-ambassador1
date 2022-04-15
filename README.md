@@ -32,11 +32,7 @@ These are my current Microsoft Certifications.  Check out my training notes in m
 |![DP100](https://github.com/msandfor/msandfor/blob/master/assets/azure-data-scientist-associate-600x600.png)|![DP900](https://github.com/msandfor/msandfor/blob/master/assets/azure-data-fundamentals-600x600.png)|![AI100](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-engineer-600x600.png)|![AI900](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-fundamentals-600x600.png)|![AZ220](https://github.com/codess-aus/codess-aus/blob/master/assets/specialty-azure-iot-developer-600x600.png)|![AZ900](https://github.com/msandfor/msandfor/blob/master/assets/azure-fundamentals-600x600.png)|
 
 
-# Programming & Platforms:
 ## Programming & Platforms:
-### Programming & Platforms:
-**Programming & Platforms**
-*Programming & Platforms*
 
 - Bash/Shell Scripting (Unix)
 - Python
