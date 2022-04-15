@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋, Im Clariza
 
 
-
+![](https://img.shields.io/github/followers/clariza-look-microsoft-ambassador?label=Followers&style=flat-square)
+![Profile views](https://gpvc.arturio.dev/clariza-look-microsoft-ambassador)
+ 
 <img src="https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/main/header.png" alt="This is an image of Clariza Look, Aspiring Data Engineer.">
 
 **clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
