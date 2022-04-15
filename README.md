@@ -20,4 +20,4 @@ These are my current Microsoft Certifications.  Check out my training notes in m
 
 |[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|[**AZ900**](https://www.credly.com/badges/e8b95999-b86d-4751-aade-d7eaa2783aca)|
 |:---:|:---:|
-|![AI900](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-fundamentals-600x600.png)|![AZ900](https://github.com/msandfor/msandfor/blob/master/assets/azure-fundamentals-600x600.png)|
+|![AI900](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-fundamentals-600x600.png)|![AZ900](https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/main/azure-fundamentals.png)|
