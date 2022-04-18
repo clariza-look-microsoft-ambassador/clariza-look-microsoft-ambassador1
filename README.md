@@ -13,16 +13,6 @@
 <a href="https://twitter.com/clarizalook"><img src=https://img.shields.io/badge/-Twitter-orange"/></a>
 </p>
 
-
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/cabreirajm/)
-
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@cabreirajm)
-
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/jhon_cabreira/)
-
- 
-
 My name is Clariza Look and I am currently a microsoft learn student ambassador. I am coming from a non-IT background for my previous work experience and decided to break into the technology space. I now work as a DevOps Data Engineer at Education Horizons Australia (which is an EdTech Company). Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
 - 🔭 Previous work experience is from a non-IT background and decided to break into the technology space
