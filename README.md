@@ -62,7 +62,8 @@ These are my current Microsoft Certifications.
  <img align="left" alt="Git" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/git-logo.png" />
  <img align="left" alt="Git" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/GitHub-Logo.png" />
 
-
+ 
+<br />
 </p>
  
 <br />
