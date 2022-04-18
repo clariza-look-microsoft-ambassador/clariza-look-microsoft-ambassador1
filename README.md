@@ -65,7 +65,7 @@ These are my current Microsoft Certifications.
 
 </p>
  
-<br />
+
 
 ## Latest Projects
 
