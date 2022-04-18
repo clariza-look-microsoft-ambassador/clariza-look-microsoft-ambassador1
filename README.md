@@ -20,7 +20,7 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 
 - 🔭 I am always curious and loves to learn new things
 - 🌱 I play guitar
-- 👯 I love photography and nature walks 
+- 👯 I love drone photography and nature walks 
 
  
 ## Technical Certifications
@@ -61,9 +61,9 @@ These are my current Microsoft Certifications.  Check out my training notes in m
  
 <img align="left" alt="Pandas" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/pandas-logo-300.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/git-logo.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
 
 <br />
 <br />
