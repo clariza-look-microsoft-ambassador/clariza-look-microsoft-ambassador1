@@ -65,9 +65,9 @@ These are my current Microsoft Certifications.
 
 </p>
  
- <br />
- <br />
-
+<br />
+<br />
+<br />
 ## Latest Projects
 
 * [Python Student Grades Computation](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
