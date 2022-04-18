@@ -66,16 +66,3 @@ These are my current Microsoft Certifications.
 </p>
  
 
----
-## Latest Projects
-
-* [Python Student Grades Computation](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
-* [Spark Data Engineering Project](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
-* [Basic HTML Web App Using Bootstrap and Javascript](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
-* [Java Minesweeper Puzzle](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
-* [SQL 101 Uni Project](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
-<br />
-
-
-
-
