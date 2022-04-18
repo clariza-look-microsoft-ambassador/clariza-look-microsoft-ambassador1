@@ -27,10 +27,11 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 
 These are my current Microsoft Certifications.  Check out my training notes in my Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study!
 
-<img align="left" alt="Azure AI Fundamentals Certificate" width="100px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-ai-fundamentals-600x600.png" />
+<p align="center">
+<img align="center" alt="Azure AI Fundamentals Certificate" width="100px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-ai-fundamentals-600x600.png" />
  
- <img align="left" alt="Azure Fundamentals Certificate" width="100px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png" />
- 
+ <img align="center" alt="Azure Fundamentals Certificate" width="100px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png" />
+</p>
 <br />
 
 ### Languages and Tools:
