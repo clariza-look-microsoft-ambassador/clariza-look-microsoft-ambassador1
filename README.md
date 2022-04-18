@@ -15,12 +15,13 @@
 
 My name is Clariza Look, a digital marketing specialist turned into a DevOps Data Engineer. I am also a microsoft learn student ambassador based in Perth. Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
-- 🔭 Previous work experience is from a non-IT background and decided to break into the technology space
-- 🌱 I’m currently a Microsoft Student Learn Ambassador  
-- 👯 I passed both Azure Fundamentals and Azure AI Fundamentals Certifications  
+- 🔭 I am always curious and loves to learn new things
+- 🌱 I play guitar
+- 👯 I love photography and nature walks 
 
 
-
+## Prior Industry Experience (in Advertising/Marketing): 
+Digital Media Agency Consulting / Insurance / Retail (E-Commerce) / App Development (Marketing) / Educational Software & Gaming Apps / Start Ups / Business & Professional Services
 ## Technical Certifications
 
 These are my current Microsoft Certifications.  Check out my training notes in my Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study!
