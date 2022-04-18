@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/main/header.png" alt="This is an image of Clariza Look, Aspiring Data Engineer.">
 
 ### Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/clarizalook/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/clarlooktech"><img src="https://img.shields.io/badge/-Kaggle-blue"/></a>
 <a href="https://twitter.com/clarizalook"><img src=https://img.shields.io/badge/-Twitter-orange"/></a>
