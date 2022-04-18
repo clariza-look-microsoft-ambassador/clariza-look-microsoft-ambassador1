@@ -48,8 +48,6 @@ These are my current Microsoft Certifications.
  
  <img align="left" alt="Java" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/java.svg" />
  
- 
-
 <img align="left" alt="Azure" width="60px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
 
 <img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
@@ -69,9 +67,8 @@ These are my current Microsoft Certifications.
  
 <br />
 
-### 📕 Latest Projects
+## Latest Projects
 
-<!-- BLOG-POST-LIST:START -->
 * [Python Student Grades Computation](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
 * [Spark Data Engineering Project](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
 * [Basic HTML Web App Using Bootstrap and Javascript](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
