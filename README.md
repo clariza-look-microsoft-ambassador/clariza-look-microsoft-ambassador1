@@ -13,7 +13,7 @@
 <a href="https://twitter.com/clarizalook"><img src=https://img.shields.io/badge/-Twitter-orange"/></a>
 </p>
 
-My name is Clariza Look and I am currently a microsoft learn student ambassador. I am coming from a non-IT background for my previous work experience and decided to break into the technology space. I now work as a DevOps Data Engineer at Education Horizons Australia (which is an EdTech Company). Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
+My name is Clariza Look and I am currently a microsoft learn student ambassador. I am a digital marketing consultant turned into a DevOps Data Engineer. Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
 - 🔭 Previous work experience is from a non-IT background and decided to break into the technology space
 - 🌱 I’m currently a Microsoft Student Learn Ambassador  
