@@ -44,13 +44,21 @@ These are my current Microsoft Certifications.  Check out my training notes in m
 <img align="left" alt="visual studio code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  
 <img align="left" alt="bash" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/full_colored_dark.svg" />
+ 
+ <img align="left" alt="Java" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/java.svg" />
+ 
+ 
 
 <img align="left" alt="Azure" width="60px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
 
 <img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
-<img align="left" alt="SQLServer" width="60px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<img align="left" alt="Docker" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/Docker-Logo-2013-2015.png" />
+ 
+<img align="left" alt="Apache Spark" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/Apache_Spark_logo.svg.png" />
 
+<img align="left" alt="Bootstrap" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/bootstrap.png" />
+ 
 <img align="left" alt="Pandas" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -74,14 +82,3 @@ These are my current Microsoft Certifications.  Check out my training notes in m
 
 
 
-## Programming & Platforms:
-
-- Bash/Shell Scripting (Unix)
-- Python
-- Java
-- Linux
-- Docker
-- Git-Github 
-- Devops (CI-CD) 
-- familiarity with Flask and Django frameworks 
-- JavaScript-CSS 
