@@ -6,7 +6,6 @@
  
 <img src="https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/main/header.png" alt="This is an image of Clariza Look, Aspiring Data Engineer.">
 
-<br />
 
 ### Connect with me:
 <p align="left">
@@ -15,8 +14,8 @@
 <a href="https://twitter.com/clarizalook"><img src=https://img.shields.io/badge/-Twitter-orange"/></a>
 </p>
 
- <br />
 <br />
+ 
 My name is Clariza Look, a digital marketing specialist turned into a DevOps Data Engineer. I am also a microsoft learn student ambassador based in Perth. Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
 - 🔭 I am always curious and loves to learn new things
