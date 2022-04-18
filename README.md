@@ -12,7 +12,6 @@
 <a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 
-**clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Clariza Look and I am currently a microsoft learn student ambassador. I am coming from a non-IT background for my previous work experience and decided to break into the technology space. I now work as a DevOps Data Engineer at Education Horizons Australia (which is an EdTech Company). Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
