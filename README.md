@@ -59,15 +59,15 @@ These are my current Microsoft Certifications.
 <img align="left" alt="Bootstrap" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/bootstrap.png" />
  
 <img align="left" alt="Pandas" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/pandas-logo-300.png" />
-
-<img align="left" alt="GitHub" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/git-logo.png" />
+ 
+ <img align="left" alt="Git" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/git-logo.png" />
 
 
 </p>
  
 <br />
 <br />
-<br />
+
 ## Latest Projects
 
 * [Python Student Grades Computation](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
